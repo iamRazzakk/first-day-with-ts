@@ -11,9 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.0"
-  },
-  "dependencies": {
+    "nodemon": "^3.1.0",
     "ts-node-dev": "^2.0.0"
   }
 }
