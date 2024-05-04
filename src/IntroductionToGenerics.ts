@@ -13,10 +13,10 @@
             Adress: "Chittagong",
         },
         {
-            name: "Mahfuza Rima",
+            name: "Mahfuz",
             Role: 30,
             Adress: "Dhaka",
-            designation: "Nurch"
+            designation: "Doctor"
         }
     ]
     console.log(ObjectArray)
