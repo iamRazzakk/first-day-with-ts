@@ -1,5 +1,5 @@
 {
-
+//Inheritance -OOP
     class Person {
         name: string;
         age: number;
